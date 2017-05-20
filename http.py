@@ -13,7 +13,7 @@ HOSTNAME = "localhost"
 
 # PORT = 8000
 options.PORT = 8000
-options.ROOT = '/home/mantavya294/httpserver'
+options.ROOT = '/home/mantavya294/projects/HTTPServer/httpserverDirectory'
 HANDLER = SimpleHTTPServer.SimpleHTTPRequestHandler
 
 os.chdir(options.ROOT)
